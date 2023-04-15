@@ -1,0 +1,2 @@
+1、使用官方自带的烧录工具Raspberry Pi Imager，选择64位系统ubuntu系统，不需要图形化界面，选择了server版本
+2、使用ssh连接到Windows下面的vscode（使用remote-ssh拓展）
